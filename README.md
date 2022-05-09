@@ -2,6 +2,7 @@
 API em java de criação e edição de Jogadores e Cartas baseado no card game Magic the Gathering.
 Foram utilizadas as tecnologias java e SpringBoot e para compilação o gradle. Essa API simula a criação de Jogadores e de Cartas, baseada nesses jogadores.
 Como banco de dados foi utilizado o [Postgres](https://www.postgresql.org/download/) e o [H2](http://www.h2database.com/html/download.html) para os testes.
+Na pasta de queryDB você vai achar os comandos para criação do database, do schema e das tabelas.
 
 # Pontos de Melhoria
 Ainda falta adicionar alguns métodos, como armazenar o nome da carta sempre em português, realizar o filtro de cartas por ordem alfabética ou valor e
